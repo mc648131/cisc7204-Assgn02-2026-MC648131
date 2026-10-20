@@ -1,0 +1,19 @@
+Subject: CISC7204 Assignment 02 - Module 02 - MC648131 Xiaoyu Guo
+
+I completed the three Module 02 labs using the Canadian immigration dataset for 1980-2013. The notebooks include all exercises, executed outputs, and short observations.
+
+Lab 01 compares stacked and unstacked area charts, overlapping histograms, and an annotated top-15 bar chart. India and China have the largest full-period immigration totals, at 691,904 and 659,962.
+
+Lab 02 covers the 2013 continent shares, China-India box and bubble plots, decade-level box plots, and the Denmark-Norway-Sweden scatter plot. Asia accounts for 60.2% of immigration in 2013. China and India have similar annual medians, but China's annual counts vary more. The decade comparison uses three complete decades; it excludes 2010-2013.
+
+Lab 03 recreates these chart types directly with Matplotlib and combines four plots in a 2x2 layout. I corrected the example's five-year pie-chart title to 1980-1984 and placed the Haiti earthquake annotation at 2010.
+
+The code uses the local Canada.csv file, and all three notebooks run from a fresh kernel. The screenshots show the exercise code and actual outputs.
+
+Attachments:
+CISC7204 Assgn02 Module 02 - Lab01 MC648131 Xiaoyu Guo.ipynb
+CISC7204 Assgn02 Module 02 - Lab02 MC648131 Xiaoyu Guo.ipynb
+CISC7204 Assgn02 Module 02 - Lab03 MC648131 Xiaoyu Guo.ipynb
+Module02_Lab01_01.png and Module02_Lab01_02.png
+Module02_Lab02_01.png through Module02_Lab02_03.png
+Module02_Lab03_01.png and Module02_Lab03_02.png

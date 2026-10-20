@@ -1,0 +1,9 @@
+Subject: CISC7204 Assgn02 Module 04 - Lab03 MC648131 Xiaoyu Guo
+
+I completed both dashboards. The main app accepts a year from 2010 to 2020 and updates the monthly mean arrival-delay line chart. The practice app filters the selected year, groups by destination state and reporting airline, and plots the summed flight counts as a stacked bar chart.
+
+I checked callback responses for 2010, 2019 and 2020 and compared the plotted values with the source data. Missing arrival delays are excluded from the monthly mean. The flight totals refer to the provided teaching dataset.
+
+Both scripts, the local dataset and the run instructions are included in the ZIP. The main app uses port 8043; the bar-chart app uses port 8044.
+
+Attachments: CISC7204 Assgn02 Module 04 - Lab03 MC648131 Xiaoyu Guo.zip; Lab03_line_code_results.png, Lab03_bar_code_results.png, Lab03_live_line_2019.png.

@@ -1,0 +1,7 @@
+Subject: CISC7204 Assgn02 Module 04 - Lab02 MC648131 Xiaoyu Guo
+
+I built the Dash layout with an H1 title, a paragraph and a pie chart. The chart shows the flight-count share of each 250-mile distance group using the required 500-row sample. The practice change is included: Airline On-time Performance Dashboard, with a 50px title.
+
+The app runs locally on port 8042. The project includes the Python script, the local airline dataset, package versions and a short run guide. Ctrl+C stops the app in the terminal.
+
+Attachments: CISC7204 Assgn02 Module 04 - Lab02 MC648131 Xiaoyu Guo.zip; Lab02_code_results.png, Lab02_live_dashboard.png.

@@ -1,0 +1,9 @@
+Subject: CISC7204 Assgn02 Module 04 - Lab04 MC648131 Xiaoyu Guo
+
+I completed the five-chart dashboard for monthly carrier, weather, NAS, security and late-aircraft delays by reporting airline. One year input updates all five outputs. The layout uses two paired rows followed by the late-aircraft chart.
+
+The practice version is saved as flight_details.py with the title Flight Details Statistics Dashboard at 35px. I checked all five outputs for 2010, 2019 and 2020 against the source-row means. Each delay mean excludes missing values in that column.
+
+The app runs on port 8045, and Ctrl+C stops it. The ZIP includes the script, local dataset and run guide.
+
+Attachments: CISC7204 Assgn02 Module 04 - Lab04 MC648131 Xiaoyu Guo.zip; Lab04_code.png, Lab04_results.png, Lab04_live_dashboard_2019.png.

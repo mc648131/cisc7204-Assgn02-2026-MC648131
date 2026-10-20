@@ -1,0 +1,9 @@
+Subject: CISC7204 Assgn02 Module 04 - Lab01 MC648131 Xiaoyu Guo
+
+I completed the Plotly examples and all seven airline-data exercises using a reproducible 500-row sample. The notebook includes scatter, line, bar, histogram, bubble, pie and sunburst charts. It was executed from a fresh kernel with no errors.
+
+June has the highest mean arrival delay in this sample, about 17.31 minutes. California has the most sampled flights (68), and WN is the largest reporting airline (86). The sample combines multiple years, so these are not estimates for one specific year.
+
+I corrected the mismatched synthetic array lengths in the starter example. I also noted that the required pie chart sums Month numbers within DistanceGroup: distance group 2 is not February. The histogram follows the required fillna(0) step, and its interpretation identifies the 15 imputed values.
+
+Attachments: the completed Lab01 notebook; Lab01_1_examples.png, Lab01_2_airline.png, Lab01_3_airline.png.

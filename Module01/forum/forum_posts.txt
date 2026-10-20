@@ -1,0 +1,20 @@
+MODULE 01 — FORUM POSTS
+Student: Xiaoyu Guo (MC648131)
+
+Post 1 title: Module 01 Lab 01 — Exploring and preparing the Canadian immigration data
+
+I used the Canada by Citizenship worksheet to inspect the data, remove unused fields and calculate each country's total across 1980–2013. The total uses only the year columns, so descriptive fields do not enter the calculation. I then selected Haiti's records, filtered the five Southern African countries and ranked the largest sources of immigration in 2010. The Philippines ranked first in that year with 38,617 arrivals, followed by India (34,235) and China (30,391).
+
+Attach: Lab01_part1.png and Lab01_part2.png.
+
+Post 2 title: Module 01 Lab 02 — Immigration trends in line charts
+
+I plotted Haiti's annual arrivals and marked 2010, the year of the earthquake. Arrivals reached 4,744 in 2010 and peaked at 6,503 in 2011; this timing alone does not establish causation. For India and China, I transposed the table so that years formed the horizontal axis. The final chart compares the five countries with the largest totals over the full period. India has the highest total, while the United Kingdom and the Philippines show quite different patterns despite both being in the top five.
+
+Attach: Lab02_part1.png and Lab02_part2.png.
+
+Post 3 title: My Upload of Completed ipynb notebooks and zipped project space for Module 01
+
+Attached are my two completed notebooks for Module 01. Both have been run from the first cell to the last. The included data folder contains the original Canada.xlsx and Canada.csv files used by the notebooks. Keep the completed and data folders beside each other when running the files locally.
+
+Attach: the two completed .ipynb files and the data files, or the module download pack if the forum permits it.

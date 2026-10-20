@@ -1,0 +1,8 @@
+Module 05Practice - Lab01
+Xiaoyu Guo (MC648131)
+
+I completed Tasks 1.1–1.9 using the local Historical Wildfires dataset. The notebook covers annual and monthly fire-area trends, regional brightness comparisons, two versions of the fire-pixel pie chart, ordinary and stacked histograms, the confidence–radiative-power scatter plot, and a Folium map with seven region markers.
+
+The largest annual average estimated fire area occurs in 2011 (266.94 km² per daily region observation), and the largest monthly average is September 2011 (863.79 km²). Northern Territory accounts for 34.13% of the recorded fire pixels. Western Australia has the highest average brightness, while Tasmania has the lowest. Mean confidence and radiative power have a positive Pearson correlation of 0.452, although this does not establish a causal relationship.
+
+I kept the units and interpretation distinct: the area charts show averages rather than annual totals, and Count refers to detected pixels rather than separate fires. The final year is incomplete. Every code cell was run from a fresh kernel. The three attached evidence images cover Tasks 1.1–1.3, 1.4–1.6, and 1.7–1.9 respectively.

@@ -1,0 +1,6 @@
+Module 05Practice - Lab02
+Xiaoyu Guo (MC648131)
+
+I completed Tasks 2.1–2.5 in Dash_wildfire.py. The dashboard has all seven region choices, a year dropdown covering 2005–2020, and two plots updated by one callback: a pie chart of monthly average estimated fire area and a bar chart of monthly average fire-pixel count. Both charts use the selected region and year.
+
+I tested the running application by changing NSW/2005 to NT/2011. The NT/2011 report shows a strong September peak in both measures. I also checked WA/2020 and TA/2019 against the original CSV. Some selections have fewer than twelve observed months; the application leaves those missing months absent instead of introducing false zeros. The evidence includes the actual source and validation results plus two screenshots of the running dashboard.

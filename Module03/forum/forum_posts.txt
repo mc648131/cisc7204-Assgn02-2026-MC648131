@@ -1,0 +1,15 @@
+Subject: CISC7204 Assignment 02 - Module 03 - MC648131 Xiaoyu Guo
+
+I completed both Module 03 labs, including the waffle-chart and regression exercises, the word-cloud examples, and the Folium maps.
+
+In Lab 01, India contributes 51.2% and China 48.8% of their combined immigration total. I used a fixed random seed for the word clouds and regression plots so the output is reproducible. For Denmark, Sweden and Norway together, the fitted annual change is approximately -6.15 immigrants per year over 1980-2013. This describes the trend in the data, not a causal relationship.
+
+In Lab 02, I created Mexico maps at zoom levels 4 and 6, used the Stadia Alidade Smooth light background after the legacy tile services became unavailable, clustered the first 100 San Francisco incident records, and built a world choropleth. The incident map is a file-order subset, not a random sample. I normalized 18 country-name aliases for the choropleth, increasing the number of matching origins from 147 to 165 out of 195. The remaining 30 origins have no corresponding named polygon in the supplied GeoJSON.
+
+Both notebooks run from a fresh kernel using the downloaded datasets and assets. Folium still needs an internet connection to display its background tiles and browser libraries. The Stadia examples support local Jupyter or a localhost web server without an API key; other hosting requires authentication. The screenshots show the code and rendered results, and the saved HTML maps remain interactive.
+
+Attachments:
+CISC7204 Assgn02 Module 03 - Lab01 MC648131 Xiaoyu Guo.ipynb
+CISC7204 Assgn02 Module 03 - Lab02 MC648131 Xiaoyu Guo.ipynb
+Module03_Lab01_01.png through Module03_Lab01_03.png
+Module03_Lab02_01.png through Module03_Lab02_03.png

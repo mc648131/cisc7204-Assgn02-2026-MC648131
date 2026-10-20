@@ -1,0 +1,8 @@
+Module 05Final - Lab01
+Xiaoyu Guo (MC648131)
+
+I completed Tasks 1.1–1.9 and the optional Folium map in Task 1.10 using the supplied synthetic automobile-sales data. The notebook includes both the overall and vehicle-type comparisons in Task 1.3 and both scatter plots in Task 1.6. I included labels for every year and annotations for recession years in the annual sales plot.
+
+Mean sales in recession observations are 62.5% lower than in non-recession observations, and Sports has the largest relative decline among vehicle categories. The correlation between annual advertising expenditure and sales outside recessions is only -0.069. During recessions, the pooled consumer-confidence correlation is -0.050 and the price correlation is -0.167. These weak relationships do not support a claim that the charts establish causation. Recession observations account for 17.3% of total advertising expenditure, but the two periods contain unequal numbers of observations.
+
+For the optional map I checked the geographic keys: the field named City actually contains state names that match the supplied GeoJSON. Gray states represent unavailable observations. All cells were executed from a fresh kernel, and the three evidence images contain the original questions, completed code, actual charts and interpretations.

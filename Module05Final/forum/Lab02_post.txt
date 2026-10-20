@@ -1,0 +1,8 @@
+Module 05Final - Lab02
+Xiaoyu Guo (MC648131)
+
+I completed Tasks 2.1–2.6 in the automobile-sales Dash application. The report selector switches between Yearly Statistics and Recession Period Statistics. Year selection is enabled only for Yearly Statistics. Each report contains four charts arranged in two rows and two columns.
+
+The yearly report includes the whole-period annual trend, selected-year monthly totals, average sales by vehicle type, and advertising expenditure by vehicle type. The recession report filters Recession = 1 and shows the year-wise average, average sales by type, advertising share, and unemployment-related sales by type. I filtered monthly totals to the selected year before grouping, rather than pooling all years.
+
+The application was checked against the bundled CSV for all 44 selectable years. Monthly sales and advertising slices reconcile to their selected-year totals. I also tested the HTTP callback that enables the year dropdown and verified the running app in Chrome. The screenshots RecessionReportgraphs.png and YearlyReportgraphs.png show both complete report layouts; the code image covers Tasks 2.1–2.6 and the executed validation output.
